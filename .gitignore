@@ -1,0 +1,11 @@
+__pycache__/
+.env
+.env.docker
+*.png
+.idea/
+env/
+.github
+node_modules/
+/public/build/
+.DS_Store
+.vscode/
